@@ -1,3 +1,5 @@
+Thanks to @natsammons for the original idea for the Mac. 
+
 # MacOS `zsh` dotfiles
 
 ## Config Files
