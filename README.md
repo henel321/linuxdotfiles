@@ -30,7 +30,7 @@ Above we installed the "FiraCode NerdFont" and "Meslo LGL NerdFont" using brew. 
 ### Change default shell for your user
 
 ```bash
-chsh -s /usr/local/bin/zsh
+chsh -s /usr/bin/zsh
 ```
 
 Without this you will use the old version of zsh that ships with MacOS.

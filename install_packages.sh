@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo apt-get install zsh zsh-syntax-highlighting  
+sudo apt-get install vim zsh zsh-syntax-highlighting  
 
