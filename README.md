@@ -1,6 +1,6 @@
 Thanks to @natsammons for the original idea for the Mac. 
 
-# MacOS `zsh` dotfiles
+# Config `zsh` dotfiles
 
 ## Config Files
 * [`.zshrc`](zshrc)
@@ -15,13 +15,13 @@ Thanks to @natsammons for the original idea for the Mac.
 git clone https://github.com/henel321/linuxdotfiles.git ~/.linuxdotfiles
 ```
 
-### Install Brew Packages
+### Install Packages
 
 ```bash
 bash ~/.linxdotfiles/install_packages.sh
 ```
 
-## 2. Setup iTerm Font
+## 2. Setup iTerm Font (if using it on the Mac) 
 
 Above we installed the "FiraCode NerdFont" and "Meslo LGL NerdFont" using brew.  Select one of these in iTerm as your font.
 
