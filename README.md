@@ -92,6 +92,11 @@ The [`.zshrc`](zshrc) config sources files named `*.sh` in each of the following
 
 Files in each of these directories are run in alphabetic order (using `sort` on filenames)
 
+# 9. Install pfetch (optional) 
+
+Install pfetch for a pretty login banner
+https://github.com/dylanaraps/pfetch
+
 # 9. Updates
 
 Update everything by running the following commands:
